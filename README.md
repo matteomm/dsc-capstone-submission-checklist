@@ -11,15 +11,14 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 - [X] Clearly explains the real-world problem your project attempts to solve in...
   - [X] Readme
   - [X] Notebook
-  - [ ] Slides
 
 ## Data Understanding
 
 - [X] Describes the data source in...
-  - [ ] Readme
+  - [X] Readme
   - [X] Notebook
-  - [ ] Slides
-- [ ] Notebook describes properties of all variables used in project
+  - [X] Slides
+- [X] Notebook describes properties of all variables used in project
 
 ## Data Preparation
 
@@ -29,30 +28,30 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 
 - [X] Notebook includes a baseline model
 - [X] Notebook includes additional models built iteratively from the baseline model
-- [ ] Preferred model is described in...
-  - [ ] Readme
+- [X] Preferred model is described in...
+  - [X] Readme
   - [X] Notebook
-  - [ ] Slides
+  - [X] Slides
 
 ## Evaluation
 
-- [ ] Model validation is included in...
-  - [ ] Readme
+- [X] Model validation is included in...
+  - [X] Readme
   - [X] Notebook
-  - [ ] Slides
+  - [X] Slides
 
 ## Readme Content
 
 - [ ] Readme includes...
-  - [ ] Data science process steps
-  - [ ] Future improvement ideas
+  - [X] Data science process steps
+  - [X] Future improvement ideas
   - [X] Repository navigation
-  - [ ] Reproduction instructions
-  - [ ] Links to presentation and sources
+  - [X] Reproduction instructions
+  - [X] Links to presentation and sources
 
 ## Notebook Content
 
-- [ ] Notebook includes...
+- [X] Notebook includes...
   - [X] Data understanding
   - [X] Data preparation
   - [X] Modeling
@@ -61,22 +60,22 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 ## Presentation Content
 
 - [ ] Presentation includes...
-  - [ ] Introduction
-  - [ ] Data science process steps
-  - [ ] Future improvement ideas
-  - [ ] Contact info
+  - [X] Introduction
+  - [X] Data science process steps
+  - [X] Future improvement ideas
+  - [X] Contact info
 
 ## Presentation Style
 
-- [ ] Presentation...
-  - [ ] Is uncluttered
-  - [ ] Is light on text
-  - [ ] Has no unnecessary jargon
-  - [ ] Has visuals that clearly demonstrate key points
+- [X] Presentation...
+  - [X] Is uncluttered
+  - [X] Is light on text
+  - [X] Has no unnecessary jargon
+  - [X] Has visuals that clearly demonstrate key points
 
 ## Sourcing
 
-- [ ] Properly cites...
-  - [ ] Data
-  - [ ] Images
-  - [ ] Any other content created by others (e.g. text, code)
+- [X] Properly cites...
+  - [X] Data
+  - [X] Images
+  - [X] Any other content created by others (e.g. text, code)
